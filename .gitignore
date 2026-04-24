@@ -1,3 +1,5 @@
 CMakeFiles/
 CMakeCache.txt
 build/
+__pycache__/
+*.pyc
