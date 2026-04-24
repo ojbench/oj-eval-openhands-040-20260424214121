@@ -3,3 +3,6 @@ CMakeCache.txt
 build/
 __pycache__/
 *.pyc
+code
+Makefile
+cmake_install.cmake
